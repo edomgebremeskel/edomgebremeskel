@@ -16,7 +16,7 @@ This GitHub is where I share my projects, code experiments, and progress!
 
 ### 📂 Projects
 
-- 🔨 [To-Do App in Python](https://github.com/edomgebremeskel/todo_python) *(in progress)*
+- 🔨 [To-Do App in Python](https://github.com/edomgebremeskel/todo_python)
   - A simple command-line app to add, view, mark, and delete tasks.
   - [README](https://github.com/edomgebremeskel/todo_python/blob/main/README.md)
     
