@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Edom Gebremeskel!
 
-🎓 I'm a first-year Computer Science student at the University of Massachusetts Boston.  
+🎓 I am a Computer Science student at the University of Massachusetts Boston.  
 I'm passionate about building cool things, experimenting with code, and growing as a developer.  
 This GitHub is where I share my projects, code experiments, and progress!
 
@@ -22,6 +22,9 @@ This GitHub is where I share my projects, code experiments, and progress!
     
 - 🌐 [Personal Portfolio Website](#) *(comming soon)*
   - A website to showcase my projects, skills, and contact information.
+
+- 🏥 [Hospital Appointment](https://github.com/edomgebremeskel/hospital-appointment)
+  - A respansive website that allows users to book medical appointments and access hospital information efficiently.
 
 ---
 
