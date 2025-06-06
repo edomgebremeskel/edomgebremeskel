@@ -24,7 +24,7 @@ This GitHub is where I share my projects, code experiments, and progress!
   - A website to showcase my projects, skills, and contact information.
 
 - 🏥 [Hospital Appointment](https://github.com/edomgebremeskel/hospital-appointment)
-  - A respansive website that allows users to book medical appointments and access hospital information efficiently.
+  - A responsive website that allows users to book medical appointments and access hospital information efficiently.
 
 ---
 
